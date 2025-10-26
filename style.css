@@ -3,7 +3,7 @@ body{
 }
 
 header{
-width: 80%;
+width: 100%;
 margin: 0 auto;
 text-align: center;
 background-color: black;
@@ -22,7 +22,7 @@ header p {
 .card{
     border: 1px solid blue;
     border-radius: 15px;
-    width: 60%;
+    width: 90%;
     margin: 50px auto;
     text-align: center;
     background-color: black;
@@ -35,4 +35,5 @@ header p {
     border-radius: 5px;
     background-color: #1a1a1a;
     font-size: 14px;
+
 }
