@@ -27,8 +27,8 @@ header p {
     text-align: center;
     background-color: black;
     color: white;
-
 }
+
 .result {
     margin-top: 10px;
     padding: 8px;
@@ -36,3 +36,4 @@ header p {
     background-color: #1a1a1a;
     font-size: 14px;
 }
+
