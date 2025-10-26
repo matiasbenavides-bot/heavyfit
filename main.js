@@ -20,7 +20,7 @@ document.querySelectorAll('.calculate-btn').forEach(button => {
 
         // Validación estricta: no 0, no negativos, no vacíos
         if (!sets || sets < 1 || !reps || reps < 1 || !weight || weight < 1) {
-            card.querySelector('.result').textContent = "Ingresa valores válidos homosexual (mayores a 0)";
+            card.querySelector('.result').textContent = "Ingresa valores válidos homosexual;
             return;
         }
 
@@ -35,4 +35,5 @@ document.querySelectorAll('.calculate-btn').forEach(button => {
         `;
     });
 });
+
 
